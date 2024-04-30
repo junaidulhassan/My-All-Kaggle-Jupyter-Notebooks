@@ -1,2 +1,3 @@
 # My-All-Kaggle-Jupyter-Notebooks
-All Machine Learning project and jupyter notebooks from kaggle.
+All Machine Learning projects and Jupyter notebooks from Kaggle.
+All Notebooks are created from open source datasets
