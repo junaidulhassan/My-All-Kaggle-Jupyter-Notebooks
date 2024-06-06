@@ -14,7 +14,7 @@ Strategies to optimize model performance through techniques like grid search and
 ## Cross-Validation:
 Methods to ensure the robustness and reliability of the models.
 V## isualization: 
-Use of libraries like Matplotlib, Seaborn, and Plotly to create insightful visualizations.
+Use libraries like Matplotlib, Seaborn, and Plotly to create insightful visualizations.
 
 # Open Source Datasets
 Each notebook is powered by datasets sourced from Kaggle's extensive repository of open-source data. These datasets cover a wide range of topics and industries, providing ample opportunity to explore and analyze various types of data. The specific datasets used in each notebook are mentioned in the description, allowing you to access and download them for your experimentation and learning easily.
