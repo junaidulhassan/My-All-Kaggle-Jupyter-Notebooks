@@ -1,5 +1,5 @@
 # Collection of My Kaggle Jupyter Notebooks
-Welcome to my comprehensive collection of Kaggle Jupyter notebooks, where you'll find an diverse array of machine-learning projects. Each notebook is meticulously crafted, showcasing various techniques and approaches to solve real-world problems using open-source datasets available on Kaggle.
+Welcome to my comprehensive collection of Kaggle Jupyter notebooks, where you'll find a diverse array of machine-learning projects. Each notebook is meticulously crafted, showcasing various techniques and approaches to solve real-world problems using open-source datasets available on Kaggle.
 
 # What You Can Expect
 In these notebooks, you will encounter a rich variety of data science and machine learning tasks, including but not limited to:
