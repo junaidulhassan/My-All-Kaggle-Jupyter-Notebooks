@@ -12,9 +12,9 @@ Techniques to handle missing data, outliers, and feature engineering.
 Visual and statistical methods to understand the underlying patterns in the data.
 Model Building and Evaluation: Implement different machine learning algorithms, including linear regression, decision trees, random forests, gradient boosting, and deep learning models.
 
-## Hyperparameter Tuning:
+## Hyperparameter Tuning
 Strategies to optimize model performance through techniques like grid search and random search.
-## Cross-Validation:
+## Cross-Validation
 Methods to ensure the robustness and reliability of the models.
 V## isualization: 
 Use libraries like Matplotlib, Seaborn, and Plotly to create insightful visualizations.
