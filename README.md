@@ -10,7 +10,7 @@ Techniques to handle missing data, outliers, and feature engineering.
 
 ## Exploratory Data Analysis (EDA)
 Visual and statistical methods to understand the underlying patterns in the data.
-Model Building and Evaluation: 
+Model Building and Evaluation
 
 Implement different machine learning algorithms, including linear regression, decision trees, random forests, gradient boosting, and deep learning models.
 
