@@ -3,7 +3,7 @@
 Welcome to my comprehensive collection of Kaggle Jupyter notebooks, where you'll find diverse machine-learning projects. Each notebook is meticulously crafted, showcasing various techniques and approaches to solve real-world problems using open-source datasets available on Kaggle.
 
 # What You Can Expect:
-In these notebooks, you will encounter a rich variety of data science and machine learning tasks, including but not limited to:
+In these notebooks, you will encounter a rich variety of data science and machine learning tasks, including but not limited to
 
 ## Data Cleaning and Preprocessing:
 Techniques to handle missing data, outliers, and feature engineering.
